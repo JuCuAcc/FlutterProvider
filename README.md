@@ -4,6 +4,6 @@ Flutter project using provider and state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with State Management and Provider.
 
 
